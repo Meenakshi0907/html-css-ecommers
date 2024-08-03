@@ -1,0 +1,72 @@
+.container{
+    border: 2px solid black;
+}
+
+.heading{
+    text-align: center;
+    border: 2px solid black;
+    margin-left: 4px;
+    margin-right: 4px;
+}
+
+.left-box{
+    border: 2px solid black;
+    margin-left: 4px;
+    margin-right: 1200px;
+    padding-left: 10px;
+    margin-top: -15px;
+    padding-bottom: 5px;
+}
+
+.wake-up-box{
+    border: 2px solid black;
+    margin-right: 4px;
+    margin-left: -5px;
+    margin-top: 5px;
+    padding-right: 10px;
+}
+
+.breakfast-box{
+    border: 2px solid black;
+    margin-right: 4px;
+    margin-left: -5px;
+    margin-top: 5px;
+    padding-right: 10px;
+}
+
+.college-box{
+    border: 2px solid black;
+    margin-right: 4px;
+    margin-left: -5px;
+    margin-top: 5px;
+    padding-right: 10px;
+}
+
+.image-box {
+    border: 2px solid black;
+    margin-left: 305px;
+    margin-top: -446px;
+    margin-bottom: 10px;
+}
+.images {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.images img {
+    width: 100%;
+    height: 100%;
+    border: 2px solid black;
+    padding: 4px
+
+}
+
+.things h2{
+    padding-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-bottom: 10px;
+}
